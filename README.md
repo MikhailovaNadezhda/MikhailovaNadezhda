@@ -1,4 +1,4 @@
-[![Header](https://github.com/MikhailovaNadezhda/MikhailovaNadezhda/blob/main/assets/image%20(3).png)]
+![Header](https://github.com/MikhailovaNadezhda/MikhailovaNadezhda/blob/main/assets/image%20(3).png)
 
 Über mich
 
