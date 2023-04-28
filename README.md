@@ -1,4 +1,4 @@
-[![Header](https://github.com/MikhailovaNadezhda/MikhailovaNadezhda/blob/main/assets/2022_03_03_news.jpg)]
+[![Header](https://github.com/MikhailovaNadezhda/MikhailovaNadezhda/blob/main/assets/png-clipart-digital-marketing-search-engine-optimization-business-advertising-marketing-digital-marketing-marketing.png)]
 
 Über mich
 
