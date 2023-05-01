@@ -1,6 +1,6 @@
 ![Header](https://github.com/MikhailovaNadezhda/MikhailovaNadezhda/blob/main/assets/image%20(3).png)
 
-## Ich studiere derzeit Datenanalyse
+## Hallo! Ich studiere derzeit Datenanalyse!
 
 
 ![SQL](https://img.shields.io/badge/SQL-FFDAB9)
